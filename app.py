@@ -1,4 +1,3 @@
-from distutils.log import debug
 from flask import Flask, render_template
 from flask_migrate import Migrate
 from models.User import db
