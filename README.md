@@ -1,8 +1,9 @@
 # UAS Web Lanjut
 
-#flask-MVC
+## flask-MVC
 
 Pasang database mysql/mariadb dengan nama 'data' 
+
 jalankan di cli anda
 - flask db migrate
 - flask db upgrade
