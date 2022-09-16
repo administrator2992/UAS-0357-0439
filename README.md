@@ -10,4 +10,10 @@ jalankan di cli anda
 jika ingin kembali di versi sebelumnya
 - flask db downgrade
 
-Jika data news kosong, bisa dijalankan 'python generate.py 100' pada cli
+Jika data news kosong, bisa dijalankan 
+
+`python generate.py 100`
+
+Jalan Aplikasinya dengan :
+
+`python app.py`
